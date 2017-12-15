@@ -1,3 +1,5 @@
-<?php
-
-echo 1;
+echo "a.php"
+master
+test
+echo "20171206"
+echo "hello world";
