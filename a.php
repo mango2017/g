@@ -6,4 +6,7 @@ class A{
     public function c(){
         echo "c";
     }
+    public function d(){
+        echo "d";
+    }
 }
