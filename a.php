@@ -10,4 +10,7 @@ class A{
         echo "d";
         echo "ddd";
     }
+    public function e(){
+        echo "e";
+    }
 }
