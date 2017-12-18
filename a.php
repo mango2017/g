@@ -8,5 +8,6 @@ class A{
     }
     public function d(){
         echo "d";
+        echo "ddd";
     }
 }
