@@ -11,6 +11,6 @@ class A{
         echo "ddd";
     }
     public function e(){
-        echo "eddd";
+        echo "edddddsss";
     }
 }
