@@ -1,2 +1,6 @@
 <?php 
-echo "hello world";
+class A{
+    public function aa(){
+        echo 1;
+    }
+}
