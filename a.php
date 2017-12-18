@@ -1,6 +1,6 @@
 <?php 
 class A{
-    public function aa(){
-        echo 1;
+    public function b{
+        echo "b";
     }
 }
